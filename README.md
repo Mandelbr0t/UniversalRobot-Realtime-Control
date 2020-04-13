@@ -9,4 +9,4 @@ set_realtime_pose() uses standard UR - RTDE communication to send the next pose.
 
 For a more detailed explanation see the file urScriptExt.py.
 
-This code was tested on UR Firmware 3.2
+This code was tested on UR5 Firmware 3.2
