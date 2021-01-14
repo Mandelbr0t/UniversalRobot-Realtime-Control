@@ -1,5 +1,5 @@
 # UniversalRobot-RealtimeControl
-A Fork of https://bitbucket.org/RopeRobotics/ur-interface/src. I reduced the code to the absolute minimum needed for executing commands and added an option for real-time Control of a UR Robot. 
+A Fork of https://bitbucket.org/RopeRobotics/ur-interface/src. I reduced the code to a minimum needed for executing commands and added an option for real-time Control of a UR Robot. 
 
 To use the realtime control option, use the functions init_realtime_control() and set_realtime_pose().
 
